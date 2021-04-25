@@ -27,6 +27,7 @@ map <LEADER>sh :set nosplitright<CR>:vsplit<CR>
 map <LEADER>sk :set nosplitbelow<CR>:split<CR>
 map <LEADER>sj :set splitbelow<CR>:split<CR>
 inoremap jj <esc>
+tnoremap <Esc> <C-\><C-n>
 
 map <LEADER>l <C-w>l
 map <LEADER>k <C-w>k
