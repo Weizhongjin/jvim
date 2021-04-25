@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =4
+let g:netrw_dirhist_4='/Users/weizhongjin/Catch2'
+let g:netrw_dirhist_3='/Users/weizhongjin/.vim'
+let g:netrw_dirhist_2='/Users/weizhongjin/.conda'
+let g:netrw_dirhist_1='/Users/weizhongjin/.ipython'
